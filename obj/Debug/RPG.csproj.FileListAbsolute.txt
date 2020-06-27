@@ -1,0 +1,12 @@
+C:\Users\piotr\Desktop\projekty\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\piotr\Desktop\projekty\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\piotr\Desktop\projekty\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\piotr\Desktop\projekty\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\projekty\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\piotr\Desktop\projekty\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\piotr\Desktop\projekty\RPGRelease\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\piotr\Desktop\projekty\RPGRelease\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\piotr\Desktop\projekty\RPGRelease\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\piotr\Desktop\projekty\RPGRelease\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\projekty\RPGRelease\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\piotr\Desktop\projekty\RPGRelease\RPG\RPG\obj\Debug\RPG.pdb
